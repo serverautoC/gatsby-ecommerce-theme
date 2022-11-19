@@ -115,7 +115,7 @@
         },
         {
           "categoryLabel": "Homes",
-          "submenu": [For Sale, For Rent]
+          "submenu": [For Sale, For Rent
             {
               "menuLabel": "caps & scarves",
               "menuLink": "/shop"
