@@ -115,13 +115,13 @@
         },
         {
           "categoryLabel": "Homes",
-          "submenu": [For Sale, For Rent
+          "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "For Sale",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "For Rent",
               "menuLink": "/shop"
             }
           ]
