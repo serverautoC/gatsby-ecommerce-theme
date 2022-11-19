@@ -89,10 +89,10 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Homes",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "New Homes",
               "menuLink": "/shop"
             },
             {
